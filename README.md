@@ -20,14 +20,18 @@
 ---
 
 ### 🌐 Connect with Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/michalis-hadjilyars-2ba98338b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/michalis-hadjilyars-2ba98338b/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://facebook.com/michalis.hadjilyars" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+ 
+  &nbsp;&nbsp;
+  <a href="mailto:mike23ops@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="40" height="40" />
   </a>
 </p>
+
+
 
 ---
 
