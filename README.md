@@ -24,9 +24,8 @@
   <a href="https://www.linkedin.com/in/michalis-hadjilyars-2ba98338b/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
- 
   &nbsp;&nbsp;
-  <a href="mailto:mike23ops@gmail.com" target="_blank" rel="noreferrer">
+  <a href="mailto:mike23ops@gmail.com"  target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="40" height="40" />
   </a>
 </p>
