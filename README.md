@@ -8,16 +8,31 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">🎓 Design Engineering Student | 💡 MSc in Interactive Systems Design | Aspiring Game Designer</h3>
 
----
+<table>
+  <tr>
+    <td width="center" >
+      <img src="https://github.com/Michalis-Hadjilyras/Michalis-Hadjilyras/blob/main/me.png?raw=true" 
+           width="150" style="border-radius:10px;" alt="Michael's photo"/>
+    </td>
+    <td valign="top" style="line-height:1.2;">
 
-### 🧠 About Me  
-- 🔭 Currently studying **Design Engineering** and pursuing a **Master’s in Interactive Systems Design**  
-- 🎮 Learning **Unreal Engine** and **Blender**, after many projects in **Unity**  
-- 🤝 Open to collaborating on **interactive experiences** and **game design**  
-- 💬 Ask me about **games**, **TV series**, or **sports**  
-- 👨‍💻 Most of my smaller projects are here; large Unity projects are private for now  
+🔭 Currently studying **Design Engineering** and pursuing a **Master’s in Interactive Systems Design**.  
+<br>
 
----
+🎮 Learning **Unreal Engine** and **Blender**, after many projects in **Unity**.  
+<br>
+
+🤝 Open to collaborating on **interactive experiences** and **game design**.  
+<br>
+
+💬 Ask me about **games**, **TV series**, or **sports**.  
+<br>
+
+👨‍💻 Most of my smaller projects are here; large Unity projects are private for now.  
+
+   </td>
+  </tr>
+</table>
 
 ### 🌐 Connect with Me  
 <p align="center">
