@@ -1,9 +1,5 @@
 <!-- Minimal & Clean GitHub Profile README for Michael -->
 
-<p align="center">
-  <!-- Animated banner (upload your GIF at assets/banner.gif) -->
-  <img src="./assets/banner.gif" alt="Animated banner" width="100%" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">🎓 Design Engineering Student | 💡 MSc in Interactive Systems Design | Aspiring Game Designer</h3>
